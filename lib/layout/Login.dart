@@ -341,7 +341,6 @@ class _LoginScreenState extends State<LoginScreen>{
 
 // cek value 1 atau 0
     if (value == 1) {
-
 // set status loginnya sebagai login
         _loginStatus = statusLogin.signIn;
 // simpan data ke share preferences
@@ -354,6 +353,7 @@ class _LoginScreenState extends State<LoginScreen>{
           '$pesan');
     }
   }
+
   getDataPref() async {
     SharedPreferences sharedPreferences = await
     SharedPreferences.getInstance();
@@ -369,6 +369,7 @@ class _LoginScreenState extends State<LoginScreen>{
     getDataPref();
     super.initState();
   }
+
 
 }
 

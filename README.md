@@ -10,7 +10,6 @@
 
 <p>klik gambar ini untuk melihat demo aplikasi</p>
 
-
 [![Aplikasi-Note-Sederhana-Dengan-Database-MYSQL](https://img.youtube.com/vi/fBiCvzW0HXA&t=121s/0.jpg)](https://www.youtube.com/watch?v=fBiCvzW0HXA&t=121s)
 
 
